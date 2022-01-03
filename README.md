@@ -1,2 +1,2 @@
 # OdinProject
-Contains my projects and code related to The Odin Project
+Contains my projects and extra code related to The Odin Project
